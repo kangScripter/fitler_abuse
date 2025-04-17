@@ -58,6 +58,6 @@ abusive_words = [
     "vagina", "venus mound", "viagra", "vibrator", "violet wand", "vorarephilia", "voyeur",
     "voyeurweb", "voyuer", "vulva", "wank", "wetback", "wet dream", "white power", "whore",
     "worldsex", "wrapping men", "wrinkled starfish", "xx", "xxx", "yaoi", "yellow showers",
-    "yiffy", "zoophilia", "🖕"
+    "yiffy", "zoophilia", "🖕", "idiot", "loser"
 ]
 
